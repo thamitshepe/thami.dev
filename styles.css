@@ -552,6 +552,7 @@ html {
   .w-input:focus, .w-select:focus {
     border-color: #3898ec;
     outline: 0;
+    color: #999;
   }
   
   .w-input[disabled], .w-select[disabled], .w-input[readonly], .w-select[readonly], fieldset[disabled] .w-input, fieldset[disabled] .w-select {
