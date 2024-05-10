@@ -2882,7 +2882,7 @@ html {
     color: #bbb;
   }
   
-  .text-field-2 {
+  .text-email {
     height: 3em;
     color: #fff;
     text-transform: none;
@@ -2898,11 +2898,11 @@ html {
     line-height: 1;
   }
   
-  .text-field-2::-ms-input-placeholder {
+  .text-email::-ms-input-placeholder {
     color: #bbb;
   }
   
-  .text-field-2::placeholder {
+  .text-email::placeholder {
     color: #bbb;
   }
   
@@ -2970,7 +2970,7 @@ html {
   }
   
   .select-field:focus {
-    color: #bbb;
+    color: #000;
   }
   
   .load_grid {
@@ -3243,7 +3243,7 @@ html {
       font-weight: 300;
     }
   
-    .text-field-2 {
+    .text-email {
       font-family: Aspektavf, sans-serif;
       font-weight: 300;
     }
@@ -3349,7 +3349,7 @@ html {
       background-color: #fff;
     }
   
-    .text-field, .text-field-2, .textarea {
+    .text-field, .text-email, .textarea {
       margin-bottom: 20px;
       font-weight: 300;
     }
@@ -3588,7 +3588,7 @@ html {
       color: #bbb;
     }
   
-    .text-field-2 {
+    .text-email {
       background-color: rgba(0, 0, 0, 0);
       border: 0 solid #000;
       border-bottom: 1px solid #fff;
@@ -3597,15 +3597,15 @@ html {
       font-weight: 300;
     }
   
-    .text-field-2:active, .text-field-2:focus {
+    .text-email:active, .text-email:focus {
       color: #fff;
     }
   
-    .text-field-2::-ms-input-placeholder {
+    .text-email::-ms-input-placeholder {
       color: #bbb;
     }
   
-    .text-field-2::placeholder {
+    .text-email::placeholder {
       color: #bbb;
     }
   
@@ -3817,7 +3817,7 @@ html {
     grid-area: span 1 / span 2 / span 1 / span 2;
   }
   
-  #Budget-2.w-node-_856a33c1-eb06-8b65-ee1a-2be9e48a913b-e48a912e {
+  #Budget.w-node-_856a33c1-eb06-8b65-ee1a-2be9e48a913b-e48a912e {
     grid-area: span 1 / span 1 / span 1 / span 1;
   }
   
