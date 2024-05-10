@@ -2963,7 +2963,7 @@ html {
   
   .select-field:hover {
     filter: sepia();
-    color: #fff;
+    color: #999;
   }
   
   .select-field:active {
@@ -2971,7 +2971,7 @@ html {
   }
   
   .select-field:focus {
-    color: #000;
+    color: #999;
   }
   
   .load_grid {
